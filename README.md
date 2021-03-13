@@ -8,7 +8,8 @@
 ```redux-thunk```, ```node.js```, 
 ```express```, 
 ```mongoDB```, 
-```mongoose```, ```react-webcam```, ```express-fileupload```, ```nodemailer```, ```bootstrap```, ```material-ui```, 
+```mongoose```, ```react-webcam```, ```express-fileupload```, ```nodemailer```, ```node-cron```, ```bootstrap```, 
+```material-ui```, 
 ```fetch```, 
 ```cookie``` и другие.
 
