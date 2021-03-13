@@ -1,0 +1,4 @@
+.btn.btn-primary.hidden {
+  /* color: red; */
+  visibility: hidden;
+}

@@ -1,0 +1,5 @@
+DB_PATH=string to connect to db
+SESSION_DB_PATH=string to connect to db sessions
+SESSION_SECRET=secret phrase
+SENDER_EMAIL=e-mail
+SENDER_PASSWORD=password for e-mail
